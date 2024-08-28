@@ -1,0 +1,1 @@
+TransPaint utiliza librerias OS para abrir en windows una instancia de MS-Paint y luego cambia la transparencia de esta ventana. Windows no ofrece esta caracteristica y es util para hacer dibujos y calcos.
